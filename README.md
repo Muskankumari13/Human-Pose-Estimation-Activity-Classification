@@ -45,7 +45,7 @@ pose-estimation-activity-classification/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/pose-estimation-activity-classification.git
+git clone https://github.com/Muskankumari13/pose-estimation-activity-classification.git
 cd pose-estimation-activity-classification
 ```
 
